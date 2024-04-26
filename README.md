@@ -29,7 +29,7 @@
 - Node.js
 - Express.js
 - CSS3
-- VsCode
+- VSCode
 - Vercel
 
 ## Features
