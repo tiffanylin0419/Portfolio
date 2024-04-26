@@ -18,6 +18,10 @@ import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
+  useEffect(() => {
+    document.title = "Tiffany's Personal Website";
+  }, []);
+
   const [load, upadateLoad] = useState(true);
 
   useEffect(() => {
@@ -48,3 +52,5 @@ function App() {
 }
 
 export default App;
+
+

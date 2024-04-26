@@ -38,7 +38,7 @@ function NavBar() {
       <Container>
         <Navbar.Brand href="/" className="d-flex">
           <h1 className="heading-name">
-            <strong className="main-name">TIFFANY'S PORTFOLIO</strong>
+            <strong className="main-name">PORTFOLIO</strong>
           </h1>
         </Navbar.Brand>
         <Navbar.Toggle
